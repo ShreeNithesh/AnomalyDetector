@@ -1,7 +1,6 @@
 
 # Anomaly Detection App - Step-by-Step Setup & Usage Guide
 
-**Contact for Support:** dipankarthirupathi@gmail.com
 
 ---
 
@@ -150,15 +149,3 @@ AnomalyDetectionApp/
 └── RunPrediction.bat           # Optional for Windows  
 ```
 
----
-
-## ✅ Need Help? Contact Dipankar
-
-If something doesn't work:
-
-**Email:** dipankarthirupathi@gmail.com
-
-When you email:
-- Include the error message from terminal
-- Mention your OS (Windows/Linux/Mac)
-- Attach your `AppSettings.json` file
